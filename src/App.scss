@@ -1,0 +1,23 @@
+.app-bar {
+  // background-color: rgb(49, 51, 49);
+  background: var(--gradient-rl-blue);
+
+  &__logo {
+    height: 40px;
+  }
+
+  &__item {
+    color: white;
+    font-weight: 800;
+    margin-left: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+}
+
+.header__title {
+  color: white !important;
+}
+
+.header__title:hover {
+  color: #e3e3e3 !important;
+}

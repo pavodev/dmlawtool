@@ -1,0 +1,66 @@
+:root {
+  // Primary colors
+
+  --color-primary: #333333;
+  --color-primary-1: #afa89d;
+  --color-primary-2: #f95d62;
+  --color-primary-3: #82d8d5;
+  --color-primary-4: #8a587f;
+
+  // Base colors
+
+  --color-yellow-light: #ffee38;
+  --color-orange-light: #fcbd24;
+  --color-red-light: #ed5212;
+  --color-carmine-light: #b61a1e;
+  --color-pink-light: #dc3d8d;
+  --color-purple-light: #ac4cba;
+  --color-indigo-light: #6c39b0;
+  --color-blue-light: #1c76d7;
+  --color-green-light: #95d904;
+
+  --color-yellow-dark: #fcbd24;
+  --color-orange-dark: #ed5212;
+  --color-red-dark: #d72a24;
+  --color-carmine-dark: #dc3d8d;
+  --color-pink-dark: #ac4cba;
+  --color-purple-dark: #6c39b0;
+  --color-indigo-dark: #5841cf;
+  --color-blue-dark: #1d3bb3;
+  --color-green-dark: #067302;
+
+  // LR Gradients
+
+  --gradient-lr-yellow: linear-gradient(
+    0.25turn,
+    var(--color-yellow-light),
+    var(--color-yellow-dark)
+  );
+  --gradient-lr-orange: linear-gradient(
+    0.25turn,
+    var(--color-orange-light),
+    var(--color-orange-dark)
+  );
+  --gradient-lr-red: linear-gradient(0.25turn, var(--color-red-light), var(--color-red-dark));
+  --gradient-lr-carmine: linear-gradient(
+    0.25turn,
+    var(--color-carmine-light),
+    var(--color-carmine-dark)
+  );
+  --gradient-lr-pink: linear-gradient(0.25turn, var(--color-pink-light), var(--color-pink-dark));
+  --gradient-lr-purple: linear-gradient(
+    0.25turn,
+    var(--color-purple-light),
+    var(--color-purple-dark)
+  );
+  --gradient-lr-indigo: linear-gradient(
+    0.25turn,
+    var(--color-indigo-light),
+    var(--color-indigo-dark)
+  );
+  --gradient-lr-blue: linear-gradient(0.25turn, var(--color-blue-light), var(--color-blue-dark));
+  --gradient-lr-green: linear-gradient(0.25turn, var(--color-green-light), var(--color-green-dark));
+
+  // RL Gradients
+  --gradient-rl-blue: linear-gradient(270deg, var(--color-blue-light), var(--color-blue-dark));
+}

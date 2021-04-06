@@ -1,0 +1,666 @@
+{
+  "name": "LEGAL ISSUES IN RESEARCH DATA MANAGEMENT",
+  "description": "",
+  "node_id": 32,
+  "default_expanded": true,
+  "fill": "white",
+  "fill_collapsed": "white",
+  "text_color": "black",
+  "stroke": "#313331",
+  "path_highlight": false,
+  "node_type": "radio",
+  "question": "Select on of the following options:",
+  "children": [
+    {
+      "name": "Own data",
+      "description": "",
+      "node_id": 53,
+      "default_expanded": true,
+      "fill": "white",
+      "fill_collapsed": "white",
+      "text_color": "black",
+      "stroke": "#313331",
+      "path_highlight": false,
+      "node_type": "radio",
+      "question": "Select on of the following options:",
+      "children": [
+        {
+          "name": "Personal data",
+          "description": "<h3 style='margin: 0cm'> <strong ><em><u>The Choice:</u></em></strong > </h3> <p style='margin: 0cm'> When you still have to collect data, you may be able to immediately collect them in an anonymized manner. Try to always collect data already anonymously, and when this is not possible, you must anonymize the data as soon as possible. Anonymized data don’t fall under the Data protection law. </p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>Definitions needed to be able to make your choice:</u></em></strong > </h3> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Personal Data</span></em></strong > </h3> </div> <p style='margin-top: 5px; margin-right: 0cm; margin-bottom: 0; margin-left: 0; text-align: justify' > We just said that Personal data is all information related to an identified or identifiable person (art. 3 let. a DPA). Some data are from their nature related to a person and other data can identify a person after they are combined together with other data or certain circumstances. Thus, almost all data can be related to a person. To be a personal data, it is not important whether the data is objective (e.g. a professional experience, a criminal conviction, a certain consumption habit) or subjective (a value judgement such as a judgement of an employee’s performance, the prediction of a contractual partner’s future behavior) or sensitive (information about the person’s health, origins, race, sex preferences, religion, politics, philosophic opinion and preferences). It is also not important the data’s form: it can be a letter of the alphabet, a picture or an audiovisual image or any other graphical representation, a video, a sound, a sign, a symbol, a smell, a combination of elements (such as a picture with the person’s nickname, phone number and email address). </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong ><strong ><em><span style='color: #385623'></span></em></strong ><span style='color: black' >the person’s biometrical information; the person’s medical analysis; a photo of a person (data of a identified person) or a photo of elements related to a person (data of a identifiable person); the measurement of somebody’s height; a register with data of a person’s car and registration plate; the phonebook; a report of a meeting. Geodata, such as data information about a property (their location, use, and other) can let the identification of the property owner. In particular, the property value, when used to determine the owner’s taxation or their financial situation, is a personal data. Furthermore, the association of information establishing that a person was at a certain place at a certain time, can identify the subject’s personality. Such information are therefore personal data.</span > </p> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Identified</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > The information is directly related to a specific person. Often the person’s name is enough to immediately recognize the subject. But in some cases, a common name among a large group of people is not enough and, depending on the context, other information would be necessary so to identify the subject. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong ><em><span>:</span></em> the person’s photo, the phonebook, the person’s identity card, a dossier/file with the person’s name, family name and date of birth.<br /> Examples of concrete cases of identifiable persons: <br /> </p> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Identifiable</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Data of an identifiable person are such when they are not directly linked to a person, but it is possible to identify the latter by using a technique that makes the identification possible with an indirect correlation from the information given. The technique used to identify the person shall not be too costly or complex. The identification can be done from one only information (e.g. if a professional function at a company is done from one person, this subject can be identified with only that information). </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em ></strong> the photo of the person’s characteristics; the photo of the person’s house / car’s registration plate; a unique identification number (e.g. AVS number, IP address, personal phone number); biometrical and genetics data (fingerprints); biological information, medical analysis; the report of a meeting where some information of the person is reported; pseudonymized data; email address; home address; also the combination of information such as sex, date of birth and place of residence, together are data of an identifiable person.<br /><strong >Examples of concrete cases of identifiable persons: </strong ><br /> </p> <ul> <li> <strong>Google Street View case</strong>: in 2012 the Swiss Federal Supreme Court issued a sentence establishing that images of sensitive facilities, particularly women’s refuges, nursing homes, prisons, schools, courts and hospitals in Street View in Google Maps may be personal data, because a person may be recognizable via a combination of several information including these specific places. Moreover, the Federal Court stipulated that a person can be identifiable also by other identifying characteristics such as skin color, clothing, aids of physically disabled persons etc.<br /> <a href='https://www.edoeb.admin.ch/edoeb/en/home/data-protection/Internet_und_Computer/online-services/google-street-view.html' target='_blank' rel='noopener' >https://www.edoeb.admin.ch/edoeb/en/home/data-protection/Internet_und_Computer/online-services/google-street-view.html</a > </li> <li> <strong>Blick interview case (2019)</strong>: A person is considered to be identifiable when in an interview in a newspapers’ article there are details of their activity and place of residence that let them be recognized by their family members and other known people, even if their name had been changed with a pseudonym and their face partially covered in the picture.<br /> <a href='https://www.presseportal.ch/de/nr/100018292?search=65%2F2019' target='_blank' rel='noopener' >https://www.presseportal.ch/de/nr/100018292?search=65%2F2019</a > </li> </ul> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Collecting data</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Collecting data is the operation of gathering a certain amount of determined personal information of data subjects. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >I interview several people and I collect the information given; I gather several photos that contain personal information. </p> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Processing</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Processing refers to any operation or set of operations performed with the personal data, independently from the means and the procedure or techniques applied, and in particular the collection, storage, use (short explanation in brackets), revision, disclosure (short explanation in brackets, indicating the limits), archiving or destruction of data. (Art. 3/e FADP) The notion is extremely wide, as nearly any treatment, any kind of use of a data is processing data. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >Modifying, transmitting, erasing, anonymizing data. </p> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Anonymized data</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Better to immediately anonymize data; at least ASAP. If anonymization not possible, then pseudonymization is suggested (see definitions in the following knots). </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >A person’s blood type is indicated under the name “Somebody” instead of the proper name of the subject. Also, if the subject is 25 years old, an anonymized survey is when the subject gives their answer in a wide age range (for example “between 20 and 30 years old”), considered that the sample is wide (a lot of people of all ages took part in the survey). It should be then impossible to identify the specific 25 years old person. </p> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Not (enough) anonymized data</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > It is possible to identify the subject with a reasonable, not expensive, technique by combining these data with other data. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >see examples of “identifiable” </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <span>&nbsp;</span> </p> <h3 style='margin: 0cm'> <strong ><em><u>Examples of Possible Choices:</u></em></strong > </h3> <p style='margin: 0cm'> <span style='background: yellow' >Examples of collecting already anonymized data that let you exit the branch.</span > </p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>FAQs:</u></em></strong > </h3> <p style='margin: 0cm'><span style='background: yellow'>tbd</span></p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>Be aware of / Pay attention to:</u></em></strong > </h3> <p style='margin: 0cm'> <span style='background: yellow' >You always must have a legitimate ground to be able to collect personal data. (see the definition of legitimate ground in the next knots).</span > </p> ",
+          "node_id": 212,
+          "default_expanded": true,
+          "fill": "white",
+          "fill_collapsed": "white",
+          "text_color": "black",
+          "stroke": "#313331",
+          "path_highlight": false,
+          "children": [
+            {
+              "name": "Data Protection",
+              "node_id": 453,
+              "default_expanded": true,
+              "fill": "#df4e5f",
+              "fill_collapsed": "#df4e5f",
+              "text_color": "#df4e5f",
+              "stroke": "#313331",
+              "path_highlight": true,
+              "main": "",
+              "description": "<h3 style='margin:0cm;'><strong><em><u>The Choice:</u></em></strong></h3><p style='margin:0cm;'>You can either analyze data that you create or collect by yourself. You decide what kind of and whose data you need and you elaborate the data collection; or you work on data that have already been collected by somebody who you received/found them from, that means that the data already existed before your research. For <strong>example</strong>, either you interview people you need data from, or you receive the interviews that somebody else previously did.&nbsp;</p><p style='margin:0cm;'>&nbsp;</p><h3 style='margin:0cm;'><strong><em><u>Definitions needed to be able to make your choice:</u></em></strong></h3><div style='margin:0cm;'><div className='ui divider' /><h3 style='margin-top: 15px; font-size: 14px;'><strong><em><span style=\"color:#4472C4;\">Data</span></em></strong></h3></div><p style='margin-top:5px;margin-right:0cm;margin-bottom:0;margin-left:0;text-align:justify;'><strong><em><span style=\"\">Data</span></em></strong><span style=\"\">&nbsp;is a unit of information that can, alone or in combination with other pieces of information, be processed (make an example of what it means &ldquo;processing&rdquo;), analyzed (make an example of what it means to be analyzed), collected or stored.</span></p><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"color:#538135;\">Examples<br/></span></em></strong><strong><em><span style=\"color:#385623;\"></span></em></strong><span style=\"color:black;\">The temperature, a formula, an image.</span></p><div style='margin:0cm;'><div className='ui divider' /><h3 style='margin-top: 15px; font-size: 14px;'><strong><em><span style=\"color:#4472C4;\">Dataset</span></em></strong></h3></div><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"\">Dataset</span></em></strong><em><span style=\"\">&nbsp;</span></em><span style=\"\">is a collection, a group, of data.&nbsp;</span></p><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"color:#538135;\">Examples<br/></span></em></strong><em><span style=\"\"></span></em><span style=\"\">a list, a table, a chart, of data. An interview, a video, an image can also contain an amount of information.</span></p><div style='margin:0cm;'><div className='ui divider' /><h3 style='margin-top: 15px; font-size: 14px;'><strong><em><span style=\"color:#4472C4;\">Collecting data</span></em></strong></h3></div><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"\">Collecting data</span></em></strong><span style=\"\">&nbsp;is the operation of gathering a certain amount of determined personal information of data subjects.&nbsp;</span></p><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"color:#538135;\">Examples<br/></span></em></strong><span style=\"color:black;\">I interview several people and I collect the information given; I gather several photos that contain personal information.</span></p><div style='margin:0cm;'><div className='ui divider' /><h3 style='margin-top: 15px; font-size: 14px;'><strong><em><span style=\"color:#4472C4;\">Processing</span></em></strong></h3></div><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"\">Processing&nbsp;</span></em></strong><span style=\"\">refers to any operation or set of operations performed with the personal data, independently from the means and the procedure or techniques applied, and in particular the collection, storage, use (short explanation in brackets), revision, disclosure (short explanation in brackets, indicating the limits), archiving or destruction of data. (Art. 3/e FADP) The notion is extremely wide, as nearly any treatment, any kind of use of a data is processing data.&nbsp;</span></p><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"color:#538135;\">Examples<br/></span></em></strong><span style=\"\">modifying, transmitting, erasing, anonymizing data.</span></p><div style='margin:0cm;'><div className='ui divider' /><h3 style='margin-top: 15px; font-size: 14px;'><strong><em><span style=\"color:#4472C4;\">Data Controller</span></em></strong></h3></div><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><em><span style=\"\">Data controlle</span></em></strong><strong><span style=\"\">r</span></strong><span style=\"\">&nbsp;may be yourself, as researcher, and/or your team, when you decide what data you need to collect (and how you will store, what you will do with these data) for the research. The data controller is the person who determines the purposes and means of the processing. Such qualification is irrelevant to the legal form of the controller, and, depending on the processing activities, more than one entity may qualify as a data controller. The data controller is the first respondent with regard to compliance.</span></p><div style='margin:0cm;'><div className='ui divider' /><h3 style='margin-top: 15px; font-size: 14px;'><strong><em><span style=\"color:#4472C4;\">Processor</span></em></strong></h3></div><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><span style=\"\">Processor</span></strong><span style=\"\">&nbsp;is a person or legal entity that processes data on behalf of the controller. The processor acts as a &ldquo;tool&rdquo; and follows the decisions of the data controller. If the processing activities performed go beyond that, the processor is qualified as a data controller. So if you and your team decide what data you need for the research and you delegate somebody (a person or a corporation / an institution) to collect these data under your instructions, you are the data controller and the other person / entity is the processor.</span></p><div style='margin:0cm;'><div className='ui divider' /><h3 style='margin-top: 15px; font-size: 14px;'><strong><em><span style=\"color:#4472C4;\">FADP</span></em></strong></h3></div><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><strong><span style=\"\">FADP</span></strong><span style=\"\">&nbsp;is the Swiss Federal Act of Data Protection. In this Tool we consider that cases are under the Swiss legislation and this Act applies. Be careful if your case is linked to other countries, other legislations may apply or there may be a conflict of laws.&nbsp;</span></p><p style='margin-top:5px;margin-right:0cm;margin-bottom:0cm;margin-left:0;text-align:justify;'><span style=\"\">&nbsp;</span></p><h3 style='margin:0cm;'><strong><em><u>Examples of Possible Choices:</u></em></strong></h3><p style='margin:0cm;'><span style=\"background:yellow;\">tbd</span></p><p style='margin:0cm;'>&nbsp;</p><h3 style='margin:0cm;'><strong><em><u>FAQs:</u></em></strong></h3><p style='margin:0cm;'><span style=\"background:yellow;\">tbd</span></p><p style='margin:0cm;'>&nbsp;</p><h3 style='margin:0cm;'><strong><em><u>Be aware of / Pay attention to:</u></em></strong></h3><p style='margin:0cm;'><span style=\"background:yellow;\">tbd</span></p>",
+              "children": [
+                {
+                  "name": "I already have data",
+                  "description": "",
+                  "node_id": 654,
+                  "default_expanded": true,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true,
+                  "children": [
+                    {
+                      "name": "I have a valid consent",
+                      "description": "",
+                      "node_id": 746,
+                      "default_expanded": true,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "name": "Ok, exit",
+                          "description": "",
+                          "node_id": 347,
+                          "default_expanded": true,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "pulse": false
+                        }
+                      ]
+                    },
+                    {
+                      "name": "I don't have a consent",
+                      "description": "",
+                      "node_id": 546,
+                      "default_expanded": true,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "name": "No retroactive consent",
+                          "description": "",
+                          "node_id": 76,
+                          "default_expanded": true,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": [
+                            {
+                              "name": "General rules",
+                              "description": "",
+                              "node_id": 965,
+                              "default_expanded": true,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true,
+                              "children": [
+                                {
+                                  "name": "Consent examples",
+                                  "description": "",
+                                  "node_id": 4765,
+                                  "default_expanded": true,
+                                  "fill": "#df4e5f",
+                                  "fill_collapsed": "#df4e5f",
+                                  "text_color": "#df4e5f",
+                                  "stroke": "#313331",
+                                  "path_highlight": true,
+                                  "children": [
+                                    {
+                                      "name": "Contact people",
+                                      "description": "",
+                                      "node_id": 584,
+                                      "default_expanded": true,
+                                      "fill": "#df4e5f",
+                                      "fill_collapsed": "#df4e5f",
+                                      "text_color": "#df4e5f",
+                                      "stroke": "#313331",
+                                      "path_highlight": true,
+                                      "children": [
+                                        {
+                                          "name": "Pseudonimisation",
+                                          "description": "",
+                                          "node_id": 1367,
+                                          "default_expanded": true,
+                                          "fill": "#df4e5f",
+                                          "fill_collapsed": "#df4e5f",
+                                          "text_color": "#df4e5f",
+                                          "stroke": "#313331",
+                                          "path_highlight": true
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "No need to contact",
+                                      "description": "",
+                                      "node_id": 96532,
+                                      "default_expanded": true,
+                                      "fill": "#df4e5f",
+                                      "fill_collapsed": "#df4e5f",
+                                      "text_color": "#df4e5f",
+                                      "stroke": "#313331",
+                                      "path_highlight": true,
+                                      "children": [
+                                        {
+                                          "name": "Anonimisation",
+                                          "description": "",
+                                          "node_id": 657,
+                                          "default_expanded": true,
+                                          "fill": "#df4e5f",
+                                          "fill_collapsed": "#df4e5f",
+                                          "text_color": "#df4e5f",
+                                          "stroke": "#313331",
+                                          "path_highlight": true
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Can't get retroactive consent",
+                          "description": "",
+                          "node_id": 7,
+                          "default_expanded": true,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": [
+                            {
+                              "name": "Ok, be careful",
+                              "description": "",
+                              "node_id": 9,
+                              "default_expanded": true,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "I still need to collect data",
+                  "description": "",
+                  "node_id": 43,
+                  "default_expanded": true,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true,
+                  "children": [
+                    {
+                      "name": "General rules",
+                      "description": "",
+                      "node_id": 879,
+                      "default_expanded": true,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "name": "Consent examples",
+                          "description": "",
+                          "node_id": 12345,
+                          "default_expanded": true,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": [
+                            {
+                              "name": "Contact people",
+                              "description": "",
+                              "node_id": 23465,
+                              "default_expanded": true,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true,
+                              "children": [
+                                {
+                                  "name": "Pseudonimisation",
+                                  "description": "",
+                                  "node_id": 87,
+                                  "default_expanded": true,
+                                  "fill": "#df4e5f",
+                                  "fill_collapsed": "#df4e5f",
+                                  "text_color": "#df4e5f",
+                                  "stroke": "#313331",
+                                  "path_highlight": true
+                                }
+                              ]
+                            },
+                            {
+                              "name": "No need to contact",
+                              "description": "",
+                              "node_id": 22,
+                              "default_expanded": true,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true,
+                              "children": [
+                                {
+                                  "name": "Anonimisation",
+                                  "description": "",
+                                  "node_id": 33,
+                                  "default_expanded": true,
+                                  "fill": "#df4e5f",
+                                  "fill_collapsed": "#df4e5f",
+                                  "text_color": "#df4e5f",
+                                  "stroke": "#313331",
+                                  "path_highlight": true
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Copyright for Users",
+              "description": "",
+              "node_id": 44,
+              "default_expanded": false,
+              "fill": "#4E8FDF",
+              "fill_collapsed": "#4E8FDF",
+              "text_color": "#4E8FDF",
+              "stroke": "#313331",
+              "path_highlight": true
+            }
+          ]
+        },
+        {
+          "name": "Not personal data",
+          "description": "",
+          "node_id": 55,
+          "default_expanded": true,
+          "fill": "white",
+          "fill_collapsed": "white",
+          "text_color": "black",
+          "stroke": "#313331",
+          "path_highlight": false,
+          "children": [
+            {
+              "name": "Copyright for Users",
+              "description": "",
+              "node_id": 66,
+              "default_expanded": false,
+              "fill": "#4E8FDF",
+              "fill_collapsed": "#4E8FDF",
+              "text_color": "#4E8FDF",
+              "stroke": "#313331",
+              "path_highlight": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Existing data",
+      "description": "",
+      "node_id": 77,
+      "default_expanded": true,
+      "fill": "white",
+      "fill_collapsed": "white",
+      "text_color": "black",
+      "stroke": "#313331",
+      "path_highlight": false,
+      "node_type": "radio",
+      "question": "Select on of the following options:",
+      "children": [
+        {
+          "name": "Personal data",
+          "description": "",
+          "node_id": 88,
+          "default_expanded": true,
+          "fill": "white",
+          "fill_collapsed": "white",
+          "text_color": "black",
+          "stroke": "#313331",
+          "path_highlight": false,
+          "children": [
+            {
+              "name": "Copyright for Authors",
+              "description": "",
+              "node_id": 99,
+              "default_expanded": false,
+              "fill": "#5DDF4E",
+              "fill_collapsed": "#5DDF4E",
+              "text_color": "#5DDF4E",
+              "stroke": "#313331",
+              "path_highlight": true
+            },
+            {
+              "name": "Data Protection",
+              "description": "",
+              "node_id": 1010,
+              "default_expanded": false,
+              "fill": "#df4e5f",
+              "fill_collapsed": "#df4e5f",
+              "text_color": "#df4e5f",
+              "stroke": "#313331",
+              "path_highlight": true,
+              "children": [
+                {
+                  "name": "I already have data",
+                  "description": "",
+                  "node_id": 1111,
+                  "default_expanded": false,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true,
+                  "children": [
+                    {
+                      "name": "I have a valid consent",
+                      "description": "",
+                      "node_id": 1212,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "name": "Ok, exit",
+                          "description": "",
+                          "node_id": 1313,
+                          "default_expanded": false,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "I don't have a consent",
+                      "description": "",
+                      "node_id": 1414,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "name": "No retroactive consent",
+                          "description": "",
+                          "node_id": 1515,
+                          "default_expanded": false,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": [
+                            {
+                              "name": "General rules",
+                              "description": "",
+                              "node_id": 1616,
+                              "default_expanded": false,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true,
+                              "children": [
+                                {
+                                  "name": "Consent examples",
+                                  "description": "",
+                                  "node_id": 1717,
+                                  "default_expanded": false,
+                                  "fill": "#df4e5f",
+                                  "fill_collapsed": "#df4e5f",
+                                  "text_color": "#df4e5f",
+                                  "stroke": "#313331",
+                                  "path_highlight": true,
+                                  "children": [
+                                    {
+                                      "name": "Contact people",
+                                      "description": "",
+                                      "node_id": 1818,
+                                      "default_expanded": false,
+                                      "fill": "#df4e5f",
+                                      "fill_collapsed": "#df4e5f",
+                                      "text_color": "#df4e5f",
+                                      "stroke": "#313331",
+                                      "path_highlight": true,
+                                      "children": [
+                                        {
+                                          "name": "Pseudonimisation",
+                                          "description": "",
+                                          "node_id": 1919,
+                                          "default_expanded": false,
+                                          "fill": "#df4e5f",
+                                          "fill_collapsed": "#df4e5f",
+                                          "text_color": "#df4e5f",
+                                          "stroke": "#313331",
+                                          "path_highlight": true
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "No need to contact",
+                                      "description": "",
+                                      "node_id": 2020,
+                                      "default_expanded": false,
+                                      "fill": "#df4e5f",
+                                      "fill_collapsed": "#df4e5f",
+                                      "text_color": "#df4e5f",
+                                      "stroke": "#313331",
+                                      "path_highlight": true,
+                                      "children": [
+                                        {
+                                          "name": "Anonimisation",
+                                          "description": "",
+                                          "node_id": 2121,
+                                          "default_expanded": false,
+                                          "fill": "#df4e5f",
+                                          "fill_collapsed": "#df4e5f",
+                                          "text_color": "#df4e5f",
+                                          "stroke": "#313331",
+                                          "path_highlight": true
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Can't get retroactive consent",
+                          "description": "",
+                          "node_id": 2222,
+                          "default_expanded": false,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": [
+                            {
+                              "name": "Ok, be careful",
+                              "description": "",
+                              "node_id": 2323,
+                              "default_expanded": false,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Still need to collect data",
+                  "description": "",
+                  "node_id": 2424,
+                  "default_expanded": false,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true,
+                  "children": [
+                    {
+                      "name": "General rules",
+                      "description": "",
+                      "node_id": 2525,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "name": "Consent examples",
+                          "description": "",
+                          "node_id": 2626,
+                          "default_expanded": false,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": [
+                            {
+                              "name": "Contact people",
+                              "description": "",
+                              "node_id": 2727,
+                              "default_expanded": false,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true,
+                              "children": [
+                                {
+                                  "name": "Pseudonimisation",
+                                  "description": "",
+                                  "node_id": 2828,
+                                  "default_expanded": false,
+                                  "fill": "#df4e5f",
+                                  "fill_collapsed": "#df4e5f",
+                                  "text_color": "#df4e5f",
+                                  "stroke": "#313331",
+                                  "path_highlight": true
+                                }
+                              ]
+                            },
+                            {
+                              "name": "No need to contact",
+                              "description": "",
+                              "node_id": 2929,
+                              "default_expanded": false,
+                              "fill": "#df4e5f",
+                              "fill_collapsed": "#df4e5f",
+                              "text_color": "#df4e5f",
+                              "stroke": "#313331",
+                              "path_highlight": true,
+                              "children": [
+                                {
+                                  "name": "Anonimisation",
+                                  "description": "",
+                                  "node_id": 3030,
+                                  "default_expanded": false,
+                                  "fill": "#df4e5f",
+                                  "fill_collapsed": "#df4e5f",
+                                  "text_color": "#df4e5f",
+                                  "stroke": "#313331",
+                                  "path_highlight": true
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Not personal data",
+          "description": "",
+          "node_id": 3131,
+          "default_expanded": true,
+          "fill": "white",
+          "fill_collapsed": "white",
+          "text_color": "black",
+          "stroke": "#313331",
+          "path_highlight": false,
+          "children": [
+            {
+              "name": "Copyright for Authors",
+              "description": "",
+              "node_id": 3232,
+              "default_expanded": false,
+              "fill": "#5DDF4E",
+              "fill_collapsed": "#5DDF4E",
+              "text_color": "#5DDF4E",
+              "stroke": "#313331",
+              "path_highlight": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

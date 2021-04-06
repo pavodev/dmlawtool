@@ -1,0 +1,249 @@
+.message {
+  &__body {
+    padding: 20px;
+    box-shadow: none;
+    background-color: #f4f7f9;
+    border-radius: 10px;
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
+    &--buttons {
+      width: 100%;
+    }
+  }
+
+  &__body--darker {
+    background-color: #e7edf2;
+    padding: 7px;
+
+    box-shadow: none;
+    border-radius: 10px;
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  }
+
+  &__buttons {
+    &--container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+  &__button {
+    background-color: #313331 !important;
+    color: white;
+    min-width: 90px;
+  }
+}
+
+.toolbar {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  position: absolute;
+  min-height: 70px;
+  margin: 10px;
+
+  @media screen and (max-width: 800px) {
+    justify-content: center;
+  }
+
+  &__search {
+    // position: absolute !important;
+    border: 1px solid rgba(49, 51, 49, 0.3);
+    border-radius: 50px;
+    background-color: white;
+    margin: 0px 20px 0px 20px !important;
+    width: 300px;
+
+    @media screen and (max-width: 450px) {
+      width: 190px;
+    }
+
+    &__input {
+      border-radius: 50px !important;
+      border: none !important;
+      height: 50px;
+      width: 100%;
+
+      // box-shadow: 0 1px 5px 1px rgba(181, 181, 181, 0.4) !important;
+      // border-color: rgba(49, 51, 49, 0.3) !important;
+      // &:focus {
+      //   border-color: rgba(49, 51, 49, 0.5);
+      // }
+    }
+
+    &__button {
+      position: absolute;
+      right: 0;
+      height: 100%;
+
+      &__icon {
+        margin: auto !important;
+      }
+
+      &:hover {
+        transform: none;
+      }
+    }
+
+    &__container {
+      padding: 10px;
+    }
+  }
+
+  &__reset {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.toolbar__col {
+  display: flex;
+  justify-content: center;
+
+  flex-direction: column;
+  color: white;
+  box-sizing: border-box;
+
+  // margin: 5px;
+
+  &--center {
+    align-items: center;
+  }
+
+  &--start {
+    align-items: center;
+    width: 350px;
+  }
+
+  @media screen and (max-width: 800px) {
+    margin: 5px;
+  }
+}
+
+.rcw {
+  &-conversation-container {
+    width: 370px;
+    margin-bottom: 10px;
+    border-radius: 20px !important;
+
+    box-shadow: 0 10px -6px #333333;
+  }
+
+  &-header {
+    background: var(--gradient-rl-blue);
+    padding: 15px 0 15px !important;
+
+    // border-radius: 20px !important;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+
+    @media screen and (max-width: 800px) {
+      // padding: 40px 0 25px !important;
+    }
+  }
+
+  &-close-button {
+    padding: 25px 0 25px !important;
+    background-color: transparent !important;
+  }
+
+  &-launcher {
+    left: 0;
+    margin-top: 0;
+    align-self: start;
+    background: var(--gradient-rl-blue);
+  }
+
+  &-messages-container {
+    max-height: 480px;
+
+    @media screen and (max-width: 800px) {
+      max-height: 100%;
+    }
+  }
+
+  &-message > &-response {
+    color: #313331;
+  }
+
+  &-client &-message-text {
+    background: var(--gradient-lr-blue);
+    color: white;
+  }
+
+  &-sender {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 60px;
+  }
+
+  &-send {
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  &-widget-container {
+    left: 0;
+    height: auto;
+    width: auto;
+    margin: 0 0 20px 20px;
+    z-index: 300;
+
+    @media only screen and (max-width: 800px) {
+      margin: 0 0 0 0 !important;
+    }
+
+    &-conversation-container {
+      width: 385px;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .rcw-widget-container {
+    height: fit-content;
+  }
+
+  .rcw-conversation-container .rcw-title {
+    padding: 15px 0 15px;
+  }
+
+  .rcw-conversation-container {
+    margin-bottom: 20px !important;
+    height: 0%;
+  }
+
+  .rcw-conversation-container.active {
+    height: 80vh;
+    margin: auto;
+  }
+
+  .rcw-close-button {
+    padding: 0 !important;
+    transition: all 0.1s;
+
+    &:hover,
+    :focus {
+      transform: none;
+    }
+
+    &:active {
+      transform: scale(0.6, 0.6);
+    }
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .rcw-conversation-container.active {
+    height: 80vh;
+    margin: auto;
+    width: 95% !important;
+  }
+}

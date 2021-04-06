@@ -1,0 +1,20 @@
+.filter-button {
+  background-color: white;
+  border: 1px solid rgba(49, 51, 49, 0.3) !important;
+  // box-shadow: 0 1px 5px 1px rgba(181, 181, 181, 0.4) !important;
+  cursor: pointer;
+
+  transition: all 0.1s;
+
+  &:hover {
+    transform: scale(1.1, 1.1);
+  }
+
+  &:active {
+    transform: scale(1.1, 1.1);
+  }
+}
+
+.MuiDialog-paper {
+  overflow-y: visible;
+}

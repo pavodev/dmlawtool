@@ -1,0 +1,248 @@
+{
+  "label": "LEGAL ISSUES IN RESEARCH DATA MANAGEMENT",
+  "description": "No data available for this node",
+  "node_id": 32,
+  "default_expanded": true,
+  "fill": "white",
+  "fill_collapsed": "white",
+  "text_color": "black",
+  "stroke": "#313331",
+  "path_highlight": false,
+  "question": "Select on of the following options:",
+  "children": [
+    {
+      "label": "Data Protection",
+      "node_id": 453,
+      "default_expanded": false,
+      "fill": "#df4e5f",
+      "fill_collapsed": "#df4e5f",
+      "text_color": "#df4e5f",
+      "stroke": "#313331",
+      "path_highlight": true,
+      "main": "No data available for this node",
+      "description": "<h3 style=\"margin: 0cm\"> <strong ><em><u>The Choice:</u></em></strong > </h3> <p style=\"margin: 0cm\"><br />Are you dealing with personal data or non-personal data? When working on personal data, there are a number of things you must consider because you must respect the Data Protection law. <br />On the other hand, if you work on impersonal data, data related to natural events or objects, thus, data that are not directly nor indirectly related to a specific person, you are not subject to the Data protection law.&nbsp; </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Definitions needed to be able to make your choice:</u></em></strong > </h3> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">FADP</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong><span style=\"\">FADP</span></strong ><span style=\"\" >&nbsp;is the Swiss Federal Act of Data Protection. In this Tool we consider that cases are under the Swiss legislation and this Act applies. Be careful if your case is linked to other countries, other legislations may apply or there may be a conflict of laws.&nbsp;</span > </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Data</span></em></strong > </h3> </div> <p style=\"margin-top: 5px; margin-right: 0cm; margin-bottom: 0; margin-left: 0; text-align: justify\" > <strong ><em><span style=\"\">Data</span></em></strong ><span style=\"\" > is a unit of information that can, alone or in combination with other pieces of information, be processed, that means collected, stored, analyzed, etc. Information is a broad category of elements that allow you to characterize anything, objects, places, people or events. An information is constituted of data. Whereas data is a precise information related to an object, a place, a person (such as specifically, for example, the measurement of somebody’s height). </span> </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em ><span style=\"color: #538135\">Examples<br /></span></em></strong ><strong ><em><span style=\"color: #385623\"></span></em></strong ><span style=\"color: black\" >The water’s temperature; a person’s body temperature; a chemical formula.</span > </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Dataset</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em><span style=\"\">Dataset</span></em></strong ><em><span style=\"\">&nbsp;</span></em ><span style=\"\">is a collection, a group, of data.&nbsp;</span> </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em ><span style=\"color: #538135\">Examples<br /></span></em></strong ><em><span style=\"\"></span></em ><span style=\"\" >a list, a table, a chart, of data. An interview, a video, an image can also contain an amount of information.</span > </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Collecting data</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em><span style=\"\">Collecting data</span></em></strong ><span style=\"\" >&nbsp;is the operation of gathering a certain amount of determined personal information of data subjects.&nbsp;</span > </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em ><span style=\"color: #538135\">Examples<br /></span></em></strong ><span style=\"color: black\" >I interview several people and I collect the information given; I gather several photos that contain personal information.</span > </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Processing</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em><span style=\"\">Processing&nbsp;</span></em></strong ><span style=\"\" >refers to any operation or set of operations performed with the personal data, independently from the means and the procedure or techniques applied, and in particular the collection, storage, use (short explanation in brackets), revision, disclosure (short explanation in brackets, indicating the limits), archiving or destruction of data. (Art. 3/e FADP) The notion is extremely wide, as nearly any treatment, any kind of use of a data is processing data.&nbsp;</span > </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em ><span style=\"color: #538135\">Examples<br /></span></em></strong ><span style=\"\">modifying, transmitting, erasing, anonymizing data.</span> </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Data Controller</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em><span style=\"\">Data controlle</span></em></strong ><strong><span style=\"\">r</span></strong ><span style=\"\" >&nbsp;may be yourself, as researcher, and/or your team, when you decide what data you need to collect (and how you will store, what you will do with these data) for the research. The data controller is the person who determines the purposes and means of the processing. Such qualification is irrelevant to the legal form of the controller, and, depending on the processing activities, more than one entity may qualify as a data controller. The data controller is the first respondent with regard to compliance.</span > </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Processor</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong><span style=\"\">Processor</span></strong ><span style=\"\" >&nbsp;is a person or legal entity that processes data on behalf of the controller. The processor acts as a &ldquo;tool&rdquo; and follows the decisions of the data controller. If the processing activities performed go beyond that, the processor is qualified as a data controller. So if you and your team decide what data you need for the research and you delegate somebody (a person or a corporation / an institution) to collect these data under your instructions, you are the data controller and the other person / entity is the processor.</span > </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span style=\"\">&nbsp;</span> </p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Examples of Possible Choices:</u></em></strong > </h3> <p style=\"margin: 0cm\"><span><br/>I’m dealing with personal data when I work on interviews in which the subjects explain their way of doing something. Or also, when I work on images or videos representing people. I’m not dealing with personal data when I work with mathematics formulas. Or when I analyze objective number or objects prices not related to people. </span></p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>FAQs:</u></em></strong > </h3> <p style=\"margin: 0cm\"><span style=\"background: yellow\">tbd</span></p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Be aware of / Pay attention to:</u></em></strong > </h3> <p style=\"margin: 0cm\"><span><br/>In either case, when you work with personal or not personal data, pay attention to other laws that may apply, in particular copyright, competition and antitrust laws.</span></p>",
+      "children": [
+        {
+          "label": "Personal data",
+          "description": "<h3 style='margin: 0cm'> <strong ><em><u>The Choice:</u></em></strong > </h3> <p style='margin: 0cm'> When you still have to collect data, you may be able to immediately collect them in an anonymized manner. Try to always collect data already anonymously, and when this is not possible, you must anonymize the data as soon as possible. Anonymized data don’t fall under the Data protection law. </p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>Definitions needed to be able to make your choice:</u></em></strong > </h3> <div style='margin: 0cm'> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Personal Data</span></em></strong > </h3> </div> <p style='margin-top: 5px; margin-right: 0cm; margin-bottom: 0; margin-left: 0; text-align: justify' > We just said that Personal data is all information related to an identified or identifiable person (art. 3 let. a DPA). Some data are from their nature related to a person and other data can identify a person after they are combined together with other data or certain circumstances. Thus, almost all data can be related to a person. To be a personal data, it is not important whether the data is objective (e.g. a professional experience, a criminal conviction, a certain consumption habit) or subjective (a value judgement such as a judgement of an employee’s performance, the prediction of a contractual partner’s future behavior) or sensitive (information about the person’s health, origins, race, sex preferences, religion, politics, philosophic opinion and preferences). It is also not important the data’s form: it can be a letter of the alphabet, a picture or an audiovisual image or any other graphical representation, a video, a sound, a sign, a symbol, a smell, a combination of elements (such as a picture with the person’s nickname, phone number and email address). </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong ><strong ><em><span style='color: #385623'></span></em></strong ><span style='color: black' >the person’s biometrical information; the person’s medical analysis; a photo of a person (data of a identified person) or a photo of elements related to a person (data of a identifiable person); the measurement of somebody’s height; a register with data of a person’s car and registration plate; the phonebook; a report of a meeting. Geodata, such as data information about a property (their location, use, and other) can let the identification of the property owner. In particular, the property value, when used to determine the owner’s taxation or their financial situation, is a personal data. Furthermore, the association of information establishing that a person was at a certain place at a certain time, can identify the subject’s personality. Such information are therefore personal data.</span > </p> <div style='margin: 0cm'> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Identified</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > The information is directly related to a specific person. Often the person’s name is enough to immediately recognize the subject. But in some cases, a common name among a large group of people is not enough and, depending on the context, other information would be necessary so to identify the subject. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong ><em><span></span></em> the person’s photo, the phonebook, the person’s identity card, a dossier/file with the person’s name, family name and date of birth.<br /> Examples of concrete cases of identifiable persons: <br /> </p> <div style='margin: 0cm'> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Identifiable</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Data of an identifiable person are such when they are not directly linked to a person, but it is possible to identify the latter by using a technique that makes the identification possible with an indirect correlation from the information given. The technique used to identify the person shall not be too costly or complex. The identification can be done from one only information (e.g. if a professional function at a company is done from one person, this subject can be identified with only that information). </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em ></strong> the photo of the person’s characteristics; the photo of the person’s house / car’s registration plate; a unique identification number (e.g. AVS number, IP address, personal phone number); biometrical and genetics data (fingerprints); biological information, medical analysis; the report of a meeting where some information of the person is reported; pseudonymized data; email address; home address; also the combination of information such as sex, date of birth and place of residence, together are data of an identifiable person.<br /><strong >Examples of concrete cases of identifiable persons: </strong ><br /> </p> <ul> <li> <strong>Google Street View case</strong>: in 2012 the Swiss Federal Supreme Court issued a sentence establishing that images of sensitive facilities, particularly women’s refuges, nursing homes, prisons, schools, courts and hospitals in Street View in Google Maps may be personal data, because a person may be recognizable via a combination of several information including these specific places. Moreover, the Federal Court stipulated that a person can be identifiable also by other identifying characteristics such as skin color, clothing, aids of physically disabled persons etc.<br /> <a href='https://www.edoeb.admin.ch/edoeb/en/home/data-protection/Internet_und_Computer/online-services/google-street-view.html' target='_blank' rel='noopener' >https://www.edoeb.admin.ch/edoeb/en/home/data-protection/Internet_und_Computer/online-services/google-street-view.html</a > </li> <li> <strong>Blick interview case (2019)</strong>: A person is considered to be identifiable when in an interview in a newspapers’ article there are details of their activity and place of residence that let them be recognized by their family members and other known people, even if their name had been changed with a pseudonym and their face partially covered in the picture.<br /> <a href='https://www.presseportal.ch/de/nr/100018292?search=65%2F2019' target='_blank' rel='noopener' >https://www.presseportal.ch/de/nr/100018292?search=65%2F2019</a > </li> </ul> <div style='margin: 0cm'> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Collecting data</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Collecting data is the operation of gathering a certain amount of determined personal information of data subjects. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >I interview several people and I collect the information given; I gather several photos that contain personal information. </p> <div style='margin: 0cm'> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Processing</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Processing refers to any operation or set of operations performed with the personal data, independently from the means and the procedure or techniques applied, and in particular the collection, storage, use (short explanation in brackets), revision, disclosure (short explanation in brackets, indicating the limits), archiving or destruction of data. (Art. 3/e FADP) The notion is extremely wide, as nearly any treatment, any kind of use of a data is processing data. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >Modifying, transmitting, erasing, anonymizing data. </p> <div style='margin: 0cm'> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Anonymized data</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > Better to immediately anonymize data; at least ASAP. If anonymization not possible, then pseudonymization is suggested (see definitions in the following knots). </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >A person’s blood type is indicated under the name “Somebody” instead of the proper name of the subject. Also, if the subject is 25 years old, an anonymized survey is when the subject gives their answer in a wide age range (for example “between 20 and 30 years old”), considered that the sample is wide (a lot of people of all ages took part in the survey). It should be then impossible to identify the specific 25 years old person. </p> <div style='margin: 0cm'> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Not (enough) anonymized data</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > It is possible to identify the subject with a reasonable, not expensive, technique by combining these data with other data. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples<br /></span></em></strong >see examples of “identifiable” </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <span>&nbsp;</span> </p> <h3 style='margin: 0cm'> <strong ><em><u>Examples of Possible Choices:</u></em></strong > </h3> <p style='margin: 0cm'> <span style='background: yellow' >Examples of collecting already anonymized data that let you exit the branch.</span > </p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>FAQs:</u></em></strong > </h3> <p style='margin: 0cm'><span style='background: yellow'>tbd</span></p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>Be aware of / Pay attention to:</u></em></strong > </h3> <p style='margin: 0cm'> <span >You always must have a legitimate ground to be able to collect personal data. (see the definition of legitimate ground in the next knots).</span > </p>",
+          "node_id": 212,
+          "default_expanded": false,
+          "fill": "#df4e5f",
+          "fill_collapsed": "#df4e5f",
+          "text_color": "#df4e5f",
+          "stroke": "#313331",
+          "path_highlight": true,
+          "children": [
+            {
+              "label": "Anonymized data",
+              "description": "<h3 style=\"margin: 0cm\"> <strong ><em><u>Intro</u></em></strong > </h3> <p style=\"margin: 0cm\"> <br />If your research purpose allows you to collect and process anonymized data, we strongly recommend you to design your data collection in a way that involves anonymous data, for example when you obtains an already anonymised dataset.&nbsp; </p> <p style=\"margin: 0cm\"> <br />Data may be however anonymous only during one particular moment of its life cycle. For example, a researcher may conduct interviews and collect personal data from the data subject himself (Mr X with occupation Y and a revenue of Z), and then process it to make it anonymous in order to use it (Combined with other personal data, the average income for occupation Y is Z) for the research. In such situations, the data may be anonymized, or processed in a way that prevent to identify the data subject. Data protection principles remain applicable for the timeframe where the data is not anonymized.&nbsp; </p> <p style=\"margin: 0cm\"> <br />When the purpose of the research allows to work with anonymized data, we recommend you to avoid using personal data. Data protection principles such as minimisation or proportionnality require that personal data processing shall only be performed when necessary.&nbsp; </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Why exit:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span >The data protection act only applies to personal data. Properly anonymized data (in a sens that it is no longer possible to re-identify the data subject with reasonable means and and efforts) prevent both the data controller or third parties to identify the data subject. As a result, the processing of anonymized data falls out of the scope of the DPA. Other pieces of legislation may apply, such as CopA for example (see XX of the tool or Ccdigitallaw).</span > </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Be aware of / Pay attention to:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span >Risks of re-identification : Current anonymization techniques all have different flaws and advantages regarding the remaining possibilities to single out, link or infer personal informations from the dataset. A dilligent data controller shall assess regularly whether or not the anonymisation is deemed sufficient for his processing.<br /></span> </p> <p style=\"margin: 0cm\"> <span >Be aware that risks of re-identification do not only depend of you, but also of others. As such, you must have in mind that it may remain possible for third parties to cross your data with their own data in order to re-identify the data subject. In such situations, the data is not considered as anonymized and you remain responsible.<br /></span> </p> <p style=\"margin: 0cm\"> <span >Be aware that if you are the one who collect the data, the anonymisation is already a processing activity. You are thus responsible for the lawfulness of the processing activity in the timeframe prior to anonymisation where you process personal data in « clear ».<br /></span> </p> <p style=\"margin: 0cm\"> <span >Technology evolves very fast ! If you plan to keep the data for long period of times, you must take account of the fact that what is possible today with a lot of efforts may be possible tomorrow with few efforts, thus allowing for re-identification.<br /></span> </p> <p style=\"margin: 0cm\"> <span >Pseudonymisation is not anonymisation. Indeed, pseudonymisation (bring definition), although complicating the linkability of the data with the identity of the data subject, but he or she remains likely to be identified without unreasonable efforts.<br /></span> </p> <p style=\"margin: 0cm\"> <span >Other data : the necessary data for the research may not be the only type of personal data that your project may process (contact, employees, data stored or data not used for the research). Be aware that in such cases, data protection law applies, and measures may be necessary.<br /></span> </p> ",
+              "node_id": 43,
+              "default_expanded": false,
+              "fill": "#df4e5f",
+              "fill_collapsed": "#df4e5f",
+              "text_color": "#df4e5f",
+              "stroke": "#313331",
+              "path_highlight": true,
+              "children": [
+                {
+                  "label": "Exit",
+                  "description": "No data available for this node",
+                  "node_id": 25213,
+                  "default_expanded": false,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true
+                }
+              ]
+            },
+            {
+              "label": "Not anonymized data",
+              "description": "<h3 style=\"margin: 0cm\"> <strong ><em><u>The Choice:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <br />It is not always possible to immediately anonymize data. Now, the rule is that you must have the subject’s consent to be able to process their personal data. In research, the Swiss data protection law gives an exception that let you process and collect personal data without needing the subjects’ consent. The law’s exceptions that let you collect personal data without the subject’s consent are the so called “legitimate grounds” (consent is a legitimating ground). <br />Some researches are impossible to realize by relying only on strictly anonymized data. The swiss data protection law does not absolutely forbid the processing of personal data. The rule is however that such processing shall be lawful, in other words respect the provisions and principles set by the DPA. One of the core principles of the DPA is that a breach of privacy is in principle unlawful unless it is justified by the data subject’s consent or a legitimate public or private interest.&nbsp; </p> <p style=\"margin: 0cm\"> <br />The most common solution is to obtain the data subject’s valid consent, but the law provides other exception. In the field of research, an important exception is the processing of personal data not related to a specific person for the purpose of research or statistics.&nbsp; </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Definitions needed to be able to make your choice:</u></em></strong > </h3> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Anonymized data</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span>&nbsp;tbd&nbsp;</span> </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Not (enough) anonymized data</span></em></strong > </h3> </div> <p style=\"margin-top: 5px; margin-right: 0cm; margin-bottom: 0; margin-left: 0; text-align: justify\" > <span>&nbsp;tbd&nbsp;</span> </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Pseudonymized data</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span>&nbsp;tbd&nbsp;</span> </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Legitimate ground (short</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span>&nbsp;tbd&nbsp;</span> </p><div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Research exception (short)</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span>&nbsp;tbd&nbsp;</span> </p> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Consent (short)</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span>&nbsp;tbd&nbsp;</span> </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span>&nbsp;</span> </p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Examples of Possible Choices:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span style=\"background: yellow\"><br />tbd </span> </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>FAQs:</u></em></strong > </h3> <p style=\"margin: 0cm\"><span style=\"background: yellow\"><br/>tbd</span></p> <p style=\"margin: 0cm\">&nbsp;</p><h3 style=\"margin: 0cm\"> <strong ><em><u>Be aware of / Pay attention to:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span ><br />The definition of the research’s purpose. Data protection principles require the data controller to limit the processing of personal data to the necessary extents of their purpose. It may be possible to redefine the extents of your data collection to reach your purpose without having to process personal data</span > </p> <p style=\"margin: 0cm\"> <span ><br />The exception for processing of personal data for purposes not relating to a specific person shall not be seen as a legitimate ground for any research. As such, historical or genealogical research are usually, even if they result from a public interest are not covered by this exception.</span > </p> <p style=\"margin: 0cm\"> <span ><br />The exception for processing of personal data for purposes not relating to specific persons are published in a form that prevent the identification of the data subject. As with anonymization, account of potential and future de-anonymization techniques shall be taken.</span > </p> <p style=\"margin: 0cm\"> <span ><br />Legitimating grounds are limited. The exception for research where the identity of the data subject is not relevant only allows you to process personal data in this particular context. Further processing (expositions, publication and so on) may require the consent of the data subject, or another legitimating ground.</span > </p> ",
+              "node_id": 834373,
+              "default_expanded": false,
+              "fill": "#df4e5f",
+              "fill_collapsed": "#df4e5f",
+              "text_color": "#df4e5f",
+              "stroke": "#313331",
+              "path_highlight": true,
+              "children": [
+                {
+                  "label": "Subject(s) identity not relevant",
+                  "description": "<h3 style=\"margin: 0cm\"> <strong ><em><u>The Choice:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <br />In some precise situations, the legislator allows the processing of personal data without requiring the consent of the data subject. One particular exception that may find application in the field of research is the processing for purposes not related to a specific person, in particular for the purpose of research, planning and statistics.&nbsp; </p> <p style=\"margin: 0cm\"> <br />This exception is however limited. Indeed, research directed to identified persons, for example in the field of history (the biography of a living person) or genealogy fall out of the scope of this exception to the obligation to obtain a valid consent. &nbsp; </p> <p style=\"margin: 0cm\"> <br />It is thus possible to perform research involving personal data, at the condition that the results of the research are published do not allow for the identification of the data subject. The constraints related to anonymization and especially the possibility of re-identification shall be taken into account (see knot on anonymization).&nbsp; </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Definitions needed to be able to make your choice:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span>&nbsp;tbd&nbsp;</span> </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Examples of Possible Choices:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span>&nbsp;tbd&nbsp;</span> </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>FAQs:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span>&nbsp;tbd&nbsp;</span> </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Be aware of / Pay attention to:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <span >When assessing if the result published allow for re-identification, you shall take account of the duration of your publication, as well as the means used by third parties to link the data to the data subject. Indeed, your results are anonymous only where re-identification is not possible with reasonable means now, but also as long as your publication is available.<br /></span> </p> <p style=\"margin: 0cm\"> <span >This exception allows you to process the data for a particular purpose only. If you plan to process the data for other purposes unrelated to the research, such as expositions, you shall ask the data subject’s consent.<br /></span> </p> ",
+                  "node_id": 879,
+                  "default_expanded": false,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true,
+                  "children": [
+                    {
+                      "label": "Anonymization",
+                      "description": "No data available for this node",
+                      "node_id": 562333,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": []
+                    },
+                    {
+                      "label": "Pseudonymization",
+                      "description": "No data available for this node",
+                      "node_id": 777543,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "label": "Security storage, access, subject’s rights",
+                          "description": "No data available for this node",
+                          "node_id": 7634399,
+                          "default_expanded": false,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "I need the consent",
+                  "description": "<h3 style='margin: 0cm'> <strong ><em><u>The Choice:</u></em></strong > </h3> <p style='margin: 0cm'> <br />You are in this knot because you’re doing a research and you don’t fall under the exception that requires that the identity of the subject is not relevant (and therefore, you wouldn’t need the subject’s consent). Thus, now, you need the subject’s consent in order to lawfully collect and process their personal data. <br />Before choosing whether you can anonymize data or not, it is important to clearly understand how to ask a consent, when a consent is valid, and what to do in particular cases (retroactive consent).&nbsp; </p> <p style='margin: 0cm'> <br />The most common solution is to obtain the data subject’s valid consent, but the law provides other exception. In the field of research, an important exception is the processing of personal data not related to a specific person for the purpose of research or statistics.&nbsp; </p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>Definitions needed to be able to make your choice:</u></em></strong > </h3> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Legitimate ground</span></em></strong > </h3> </div> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <span>&nbsp;tbd&nbsp;</span> </p> <div style='margin: 0cm'> <div className='ui divider' /> <h3 style='margin-top: 15px; font-size: 14px'> <strong ><em><span style='color: #4472c4'>Consent</span></em></strong ></h3></div><p style='margin-top: 5px; margin-right: 0cm; margin-bottom: 0; margin-left: 0; text-align: justify'><span>A consent is a permission for something to happen or agreement to do something (Oxford Languages Dictionary). In a legal language, a consent is a particular type of legitimating motive. This motive let the other person do something that they shouldn’t do without it.&nbsp; The data processor must ask for the consent directly to the data subject, who must be capable of discernment in order to lawfully give their consent. If the subject doesn’t have a full capacity of discernment (which has to be specifically evaluated from case to case), the consent must be sought from the legal representative (the parents or the guardian). Consent is not needed for a deceased person.&nbsp; A particular form of the consent is not foreseen by the law.<br/><br/>However, a correct request for a consent must contain the following information:&nbsp; <ul> <li>the specific purpose of the data collection</li> <li>how the personal data will be processed, what will be done with the personal data</li> <li>if the personal data will be pseudonymized or anonymized and when</li> <li>how long are the personal data be kept for</li> <li>if the personal data will be given to third parties</li> <li> the processor’s contact, because the subject has the right to contact the processor anytime to ask anything concerning their personal data processing </li> </ul> The subject has the right to:&nbsp; <ul> <li>refuse the processing of their personal data</li> <li> anytime withdraw their consent until the moment data are anonymous. That means that if the subject requires their personal data to be erased, the processor must do so. </li> <li>Take an informed decision concerning giving or not giving their consent</li> </ul> The consent of the subject must be:&nbsp; <ul> <li>specific to the purpose asked for</li> <li>freely given: the subject must not endure negative consequences in case of refusal</li> <li>clear, unambiguous</li> <li> given by a clear affirmative action, whether the action is verbal or written. The consent may also be implicit given the circumstances, but it is better when it is clearly written. </li> </ul> &nbsp;</span > </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Example of explicit consent:<br /></span></em></strong >both parts sigh a contract where there is a consent clause. </p> <p style=' margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; ' > <strong ><em ><span style='color: #538135'>Examples of implicit consent based on the circumstances:<br /></span></em></strong >the subject accepts to answer several questions concerning his opinion made by a survey institute, after he’s being clearly informed of the survey’s purpose and that all results will be published. His consent is valid, because his implicit consent is based on the circumstances that he freely answered the questions and he was aware of where his personal data would be published. </p></p> <h3 style='margin: 0cm'> <strong ><em><u>Examples of Possible Choices:</u></em></strong > </h3> <p style='margin: 0cm'> <span style='background: yellow'><br />tbd </span> </p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>FAQs:</u></em></strong > </h3> <p style='margin: 0cm'> <span style='background: yellow'><br />tbd</span> </p> <p style='margin: 0cm'>&nbsp;</p> <h3 style='margin: 0cm'> <strong ><em><u>Be aware of / Pay attention to:</u></em></strong > </h3> <p style='margin: 0cm'> <span ><br />You are responsible for the way you process and archive data also when you process data that were collected by somebody else. Thus, even when dealing with already existing data, it is important to check if the data had been collected lawfully and with a valid consent or if you need for example a retroactive or a new consent. </span > </p> ",
+                  "node_id": 83249,
+                  "default_expanded": false,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true,
+                  "children": [
+                    {
+                      "label": "Anonymization",
+                      "description": "No data available for this node",
+                      "node_id": 1115553,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": []
+                    },
+                    {
+                      "label": "Pseudonymization",
+                      "description": "No data available for this node",
+                      "node_id": 88877766,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true,
+                      "children": [
+                        {
+                          "label": "Security storage, access, rights",
+                          "description": "No data available for this node",
+                          "node_id": 9923553,
+                          "default_expanded": false,
+                          "fill": "#df4e5f",
+                          "fill_collapsed": "#df4e5f",
+                          "text_color": "#df4e5f",
+                          "stroke": "#313331",
+                          "path_highlight": true,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Overriding interest",
+                  "description": "No data available for this node",
+                  "node_id": 9832768,
+                  "default_expanded": false,
+                  "fill": "#df4e5f",
+                  "fill_collapsed": "#df4e5f",
+                  "text_color": "#df4e5f",
+                  "stroke": "#313331",
+                  "path_highlight": true,
+                  "children": [
+                    {
+                      "label": "Exit",
+                      "description": "No data available for this node",
+                      "node_id": 100432,
+                      "default_expanded": false,
+                      "fill": "#df4e5f",
+                      "fill_collapsed": "#df4e5f",
+                      "text_color": "#df4e5f",
+                      "stroke": "#313331",
+                      "path_highlight": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Non-personal data",
+          "description": "<h3 style=\"margin: 0cm\"> <strong ><em><u>The Choice:</u></em></strong > </h3> <p style=\"margin: 0cm\"> <br />Are you dealing with personal data or non-personal data? When working on personal data, there are a number of things you must consider because you must respect the Data Protection law. <br />On the other hand, if you work on impersonal data, data related to natural events or objects, thus, data that are not directly nor indirectly related to a specific person, you are not subject to the Data protection law.&nbsp; </p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Definitions needed to be able to make your choice:</u></em></strong > </h3> <div style=\"margin: 0cm\"> <div className=\"ui divider\" /> <h3 style=\"margin-top: 15px; font-size: 14px\"> <strong ><em><span style=\"color: #4472c4\">Non-Personal Data</span></em></strong > </h3> </div> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span style=\"\" >&nbsp;Information not related to a person, such as pure material data.&nbsp;</span > </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <strong ><em ><span style=\"color: #538135\">Examples<br /></span></em></strong ><strong ><em><span style=\"color: #385623\"></span></em></strong ><span style=\"color: black\" >A chemical formula; a composition of a product, the water’s temperature. <br />The value of a house on the real estate market, when used as an example of the real estate prices demonstration, is not a personal data. (Meier, Protection des données, Stämpfli, 2011). <br />Other examples: a research concerning mere weather forecast data (no relation to people). </span> </p> <p style=\" margin-top: 5px; margin-right: 0cm; margin-bottom: 0cm; margin-left: 0; text-align: justify; \" > <span style=\"\">&nbsp;</span> </p> <h3 style=\"margin: 0cm\"> <strong ><em><u>Why exit:</u></em></strong > </h3> <p style=\"margin: 0cm\"><span>Non-personal data are not protected by the data protection law. If for your research you only work on data that are not personal data, you are not subject to the data protection law. Thus, you don’t need to consider legal aspects such as legitimate grounds, anonymization, pseudonymization, security storage, etc.</span></p> <p style=\"margin: 0cm\">&nbsp;</p> <h3 style=\"margin: 0cm\"> <strong ><em><u>FAQs:</u></em></strong > </h3> <p style=\"margin: 0cm\"><span style=\"background: yellow\">tbd</span></p> ",
+          "node_id": 654,
+          "default_expanded": false,
+          "fill": "#df4e5f",
+          "fill_collapsed": "#df4e5f",
+          "text_color": "#df4e5f",
+          "stroke": "#313331",
+          "path_highlight": true,
+          "children": [
+            {
+              "label": "Exit",
+              "description": "No data available for this node",
+              "node_id": 746,
+              "default_expanded": false,
+              "fill": "#df4e5f",
+              "fill_collapsed": "#df4e5f",
+              "text_color": "#df4e5f",
+              "stroke": "#313331",
+              "path_highlight": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Copyright for Authors",
+      "description": "No data available for this node",
+      "node_id": 66,
+      "default_expanded": false,
+      "fill": "#4E8FDF",
+      "fill_collapsed": "#4E8FDF",
+      "text_color": "#4E8FDF",
+      "stroke": "#313331",
+      "path_highlight": true
+    },
+    {
+      "label": "Copyright for Users",
+      "description": "No data available for this node",
+      "node_id": 99,
+      "default_expanded": false,
+      "fill": "#5DDF4E",
+      "fill_collapsed": "#5DDF4E",
+      "text_color": "#5DDF4E",
+      "stroke": "#313331",
+      "path_highlight": true
+    }
+  ]
+}

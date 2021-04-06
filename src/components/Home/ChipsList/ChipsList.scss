@@ -1,0 +1,35 @@
+.chip {
+  margin: 3px;
+  height: 25px;
+}
+
+.MuiGridListTile-tile {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.delete-tile {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 5px;
+
+  &--button {
+    transition: all 0.3s;
+
+    &:hover {
+      transform: scale(1.1, 1.1);
+    }
+
+    &:active {
+      transform: scale(1.1, 1.1);
+    }
+  }
+}
+
+.delete-tile > svg {
+  border: 1px solid rgba(215, 42, 36, 1) !important;
+  fill: rgb(215, 42, 36);
+  border-radius: 100%;
+  margin-right: 5px;
+}

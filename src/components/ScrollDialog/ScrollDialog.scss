@@ -1,0 +1,168 @@
+.ui.sub.header {
+  color: black;
+}
+
+/* .sidenav .side-header {
+    display: inline-block;
+  } */
+
+.scroll-content {
+  padding: 10px;
+  max-width: 450px;
+}
+
+.scroll-content .ui.card {
+  padding: 0;
+  text-decoration: none;
+  font-size: 14px;
+  color: black;
+  display: block;
+  transition: 0.5s all;
+}
+
+.scroll-content a:hover {
+  color: #455a64;
+}
+
+.scroll-content .closebtn {
+  cursor: pointer;
+  position: initial;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  display: table-cell;
+  line-height: 0.5;
+  top: 15px;
+  right: 15px;
+  font-size: 25px;
+  background-color: transparent;
+  border: none;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s all;
+
+  &__container  {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+.scroll-content .closebtn:hover {
+  transform: scale(1.25);
+}
+
+.sidenav {
+  // resize: horizontal;
+  // -ms-overflow-style: none; /* IE and Edge */
+  // scrollbar-width: none; /* Firefox */
+  opacity: 0;
+  height: 0;
+  width: 0;
+  position: fixed;
+  z-index: 10000;
+  top: 0;
+  right: 0;
+  background-color: white;
+  opacity: 0;
+  overflow-x: hidden;
+  transition: 0.4s all;
+  padding-top: 50px;
+
+  border: none;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+
+  @media screen and (max-width: 800px) {
+    // width: 100%;
+    min-width: 100%;
+  }
+}
+
+.sidenav .ui.card {
+  padding: 0;
+  text-decoration: none;
+  font-size: 14px;
+  color: black;
+  display: block;
+  transition: 0.5s;
+}
+
+.sidenav a:hover {
+  color: #455a64;
+}
+
+.sidenav .openbtn {
+  position: absolute;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  display: table-cell;
+  line-height: 0.5;
+  top: 15px;
+  left: 15px;
+  font-size: 25px;
+  background-color: transparent;
+  border: none;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s all;
+}
+
+.sidenav .closebtn:hover {
+  transform: scale(1.35);
+}
+
+.chip {
+  margin: 3px;
+
+  &__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+}
+
+.MuiTooltip-popper {
+  z-index: 99999 !important;
+}
+
+[data-tooltip]:before {
+  position: absolute;
+  content: attr(data-tooltip);
+  opacity: 0;
+}
+
+[data-tooltip]:hover:before {
+  opacity: 1;
+}
+
+[data-tooltip]:not([data-tooltip-persistent]):before {
+  pointer-events: none;
+}
+
+.ui.feed > .event > .content .summary img {
+  display: block !important;
+  width: 70% !important;
+  height: auto !important;
+  text-align: center !important;
+  margin: auto !important;
+}
+
+details[open] summary ~ * {
+  animation: sweep 0.5s ease-in-out;
+}
+
+@keyframes sweep {
+  0% {
+    opacity: 0;
+    margin-left: -10px;
+  }
+  100% {
+    opacity: 1;
+    margin-left: 0px;
+  }
+}

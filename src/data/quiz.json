@@ -1,0 +1,118 @@
+[
+  {
+    "label": "No",
+    "question_type": "text",
+    "text": "<p><strong>Does the dataset you are using for your research contains personal data?</strong><p/><ul><li><strong>Personal data</strong> is all information related to an identified or identifiable person</li><li><strong>Personal data</strong> is only related to a physical person, a human being (not a corporation</li>). <Example:>When data directly concern a specified person, this person is identified.<br />Example: the person’s name.<li>Data of an <strong>identifiable person</strong> are such when data are not directly linked to a person, but it is possible to identify the person using a technique (that is not too complicated nor too expensive) that makes the identification possible.</li></ul></p><p>Type <strong>Yes</strong> or <strong>No</strong>.</p>",
+    "options": [
+      {
+        "label": "No",
+
+        "question_type": "text",
+        "message": "<p>The absence of personal data in your dataset indicates that you <strong>don’t have to deal</strong> with aspects related to Data Protection.</p><p> We need, however, some more informations in order to establish the copyright aspects you should consider…</p>",
+        "text": "<p><strong>Has the dataset been produced by yourself </strong>(or your research team)<strong> or are you working on a dataset produced by someone else </strong>(another researcher or research team)<strong>?</p></strong><p>Please type “<strong>A</strong>” if your dataset belongs to the first scenario, and “<strong>B</strong>” if it belongs to the second.</p>",
+        "options": [
+          {
+            "label": "A",
+
+            "message": "<p>As you are the creator of the dataset you are using for your research, you will have to think about your dataset from an author’s point of view.</p><p> We therefore recommend you to go through the <mark><strong>Copyright for Authors</strong></mark> branch; in order to better understand what kind of license you should to apply to your dataset.",
+            "nodes": [
+              {
+                "name": "Copyright for Authors",
+                "description": "No data available for this node",
+                "node_id": 66,
+                "default_expanded": false,
+                "fill": "#4E8FDF",
+                "fill_collapsed": "#4E8FDF",
+                "text_color": "#4E8FDF",
+                "stroke": "#313331",
+                "path_highlight": true
+              }
+            ]
+          },
+          {
+            "label": "B",
+
+            "message": "<p>As you are using data that has been collected by someone else, you need to be aware of some obligations you need to fulfill in terms of copyright in order to make your research legally compliant.</p><p>We therefore recommend you to go through the <mark><strong>Copyright for Users</strong></mark> branch.</p>",
+            "nodes": [
+              {
+                "name": "Copyright for Users",
+                "description": "No data available for this node",
+                "node_id": 99,
+                "default_expanded": false,
+                "fill": "#5DDF4E",
+                "fill_collapsed": "#5DDF4E",
+                "text_color": "#5DDF4E",
+                "stroke": "#313331",
+                "path_highlight": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Yes",
+        "question_type": "text",
+        "message": "<p>The presence of personal data in your dataset indicates that you will have to address issues related to Data Protection. We need, however, some more informations in order to establish the copyright aspects you should consider…</p>",
+        "text": "<p><strong>Has the dataset been produced by yourself (or your research team), or are you working on a dataset produced by someone else (another researcher or another research team)?</strong></p><p>Please type “<strong>A</strong>” if your dataset belongs to the first scenario, and “<strong>B</strong>” if it belongs to the second.</p>",
+        "options": [
+          {
+            "label": "A",
+            "message": "<p>As you are the creator of the dataset you are using for your research, you will have to think about your dataset from an author’s point of view.</p><p>We therefore recommend you to go through the following two branches of the tree: <mark><strong>Data Protection</strong></mark> and <mark><strong>Copyright for Authors</strong></mark>; the latter will allow you to better understand what kind of license you want to apply to your dataset.</p><p><strong>The branches have been highlighted for you inside the tree</strong>.</p>",
+            "nodes": [
+              {
+                "name": "Data Protection",
+                "node_id": 453,
+                "default_expanded": true,
+                "fill": "#df4e5f",
+                "fill_collapsed": "#df4e5f",
+                "text_color": "#df4e5f",
+                "stroke": "#313331",
+                "path_highlight": true,
+                "main": "No data available for this node"
+              },
+              {
+                "name": "Copyright for Authors",
+                "description": "No data available for this node",
+                "node_id": 66,
+                "default_expanded": false,
+                "fill": "#5DDF4E",
+                "fill_collapsed": "#5DDF4E",
+                "text_color": "#5DDF4E",
+                "stroke": "#313331",
+                "path_highlight": true
+              }
+            ]
+          },
+          {
+            "label": "B",
+            "message": "<p>As you are using data that has been collected by someone else, you need to be aware of some obligations you need to fulfill in terms of copyright in order to make your research legally compliant.</p><p>We therefore recommend you to go through the following two branches of the tree:<br/><mark><strong>Data Protection</strong></mark> and <mark><strong>Copyright for Users</strong></mark></p><p><strong>The branches have been highlighted for you inside the tree</strong>.</p>",
+            "nodes": [
+              {
+                "name": "Data Protection",
+                "node_id": 453,
+                "default_expanded": true,
+                "fill": "#df4e5f",
+                "fill_collapsed": "#df4e5f",
+                "text_color": "#df4e5f",
+                "stroke": "#313331",
+                "path_highlight": true,
+                "main": "No data available for this node"
+              },
+              {
+                "name": "Copyright for Users",
+                "description": "No data available for this node",
+                "node_id": 99,
+                "default_expanded": false,
+                "fill": "#4E8FDF",
+                "fill_collapsed": "#4E8FDF",
+                "text_color": "#4E8FDF",
+                "stroke": "#313331",
+                "path_highlight": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

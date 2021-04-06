@@ -18,7 +18,7 @@ All text in this tool, except third party contents (e.g. quotes), is published u
 
 ## API JSON Structure
 
-In the following paragraphs you will find an example of the the data structures that are used by the DMLawTool.
+Below you will find an example of the the data structure that is used by the DMLawTool.
 
 ### Node data structure
 

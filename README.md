@@ -14,7 +14,7 @@ The user of this tool acknowledges that each situation must be judged on a case-
 
 ### Copyright
 
-All text in this tool, except third party contents (e.g. quotes), is published under the Creative Commons Attribution Share Alike 4.0 International License. To view a copy of this license, visit this page.
+All text in this tool, except third party contents (e.g. quotes), is published under the Creative Commons Attribution Share Alike 4.0 International License. To view a copy of this license, visit [this page](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## API JSON Structure
 

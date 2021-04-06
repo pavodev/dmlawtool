@@ -37,6 +37,77 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## API JSON Structure
+
+In the following paragraphs you will find an example of the the data structures that are used by the DMLawTool.
+
+### Node data structure
+
+As the DMLawTool displays data inside a tree graph, a tree data structure is needed.
+In order to ease developers and users, the DMLawTool accepts a simple array of nodes in which each node must respect the following conditions:
+- Each node must have a unique id.
+- Each node must have a reference to its parent node (parent_node)
+- The root node has no parent node (parent_node: null)
+
+Given the above informations, the DMLawTool is then able to compute a tree structure which is then provided to the D3.js library that draws the graph.
+
+
+```json
+[
+  {...},
+  {
+    "id": 249, // Unique id
+    "type": "node",
+    "label": "Node name",
+    "description": "<p>The description is displayed when clicking on a node</p>",
+    "summary": "The summary is displayed inside a popup when hovering the node",
+    "position": "1", // Used to determine the order of the children of a node.
+    "default_expanded": "0",
+    "fill": "#1c76d7",
+    "fill_gradient": "#1d3bb3",
+    "fill_collapsed": "#1d3bb3",
+    "text_color": "#ffffff",
+    "stroke": "#1d3bb3",
+    "isroot": "0",
+    "tags": [
+      {
+        "label": "Tag 1",
+        "t_description": "",
+        "background_color": "#1e73be",
+        "text_color": "#ffffff",
+        "ID": 220,
+        "id": 220
+      },
+      {
+        "label": "Tag 2",
+        "t_description": "",
+        "background_color": "#1e73be",
+        "text_color": "#ffffff",
+        "ID": 255,
+        "id": 255
+      }
+    ],
+    "parent_node": [
+      {
+        "ID": 186,
+        "id": 186
+        "label": "Parent node name",
+        "description": "<p>The description is displayed when clicking on a node</p>",
+        "summary": ""The summary is displayed inside a popup when hovering the node",
+        "default_expanded": "0",
+        "fill": "#1c76d7",
+        "fill_gradient": "#1d3bb3",
+        "fill_collapsed": "#4e8fdf",
+        "text_color": "#ffffff",
+        "stroke": "#1d3bb3",
+        "isroot": "0",
+      }
+    ],
+  },
+  {...}
+ ]
+```
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).

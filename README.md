@@ -72,7 +72,7 @@ Given the above informations, the DMLawTool is then able to compute a tree struc
     "tags": [
       {
         "label": "Tag 1",
-        "t_description": "",
+        "t_description": "On tag hover popup content",
         "background_color": "#1e73be",
         "text_color": "#ffffff",
         "ID": 220,
@@ -80,7 +80,7 @@ Given the above informations, the DMLawTool is then able to compute a tree struc
       },
       {
         "label": "Tag 2",
-        "t_description": "",
+        "t_description": "On tag hover popup content",
         "background_color": "#1e73be",
         "text_color": "#ffffff",
         "ID": 255,

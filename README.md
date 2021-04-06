@@ -54,7 +54,7 @@ Given the above informations, the DMLawTool is then able to compute a tree struc
 
 ```json
 [
-  {},
+  {...},
   {
     "id": 249, // Unique id
     "type": "node",
@@ -93,7 +93,7 @@ Given the above informations, the DMLawTool is then able to compute a tree struc
         "id": 186,
         "label": "Parent node name",
         "description": "<p>The description is displayed when clicking on a node</p>",
-        "summary": ""The summary is displayed inside a popup when hovering the node",
+        "summary": "The summary is displayed inside a popup when hovering the node",
         "default_expanded": "0",
         "fill": "#1c76d7",
         "fill_gradient": "#1d3bb3",

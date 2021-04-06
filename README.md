@@ -1,41 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## DMLawTool
 
-## Available Scripts
+### About the DMLawTool
 
-In the project directory, you can run:
+The DMLawTool is a decision-tree tool developed by the Università della Svizzera italiana in collaboration with the University of Neuchâtel within the P-5 program “Scientific Information” of swissuniversities. It is available under the CC-BY-SA 4.0 license as an open source software.
+The tool guides researchers working mainly in the fields of humanities and social sciences through the most relevant legal issues related to data management. At the end of the process, the tool proposes different solution approaches on what can be done with research data and how it can be archived in a repository.
 
-### `npm start`
+### Disclaimer
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This tool is a basic guide with the only purpose of giving a general understanding on the main legal aspects of Copyright and Data Protection according to Swiss legislations and to the European General Data Protection Regulation as of March 2021.
+The tool is developed in a practical manner and it is written in a non-legal language. Its purpose is not to provide complete and tailored legal advice to the user’s case, but to help researchers identify legal issues, and highlight clues that users may consider or implement with the help of specialists when necessary.
+If not indicated otherwise, the examples used are invented and have the only purpose of a better illustration of the information provided. All the information provided in this tool does not, and is not intended to, constitute legal or other professional advice.
+The user of this tool acknowledges that each situation must be judged on a case-by-case basis and must seek legal advice from a competent attorney to resolve their specific case with respect to any particular legal matter.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Copyright
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+All text in this tool, except third party contents (e.g. quotes), is published under the Creative Commons Attribution Share Alike 4.0 International License. To view a copy of this license, visit this page.
 
 ## API JSON Structure
 
@@ -107,6 +86,45 @@ Given the above informations, the DMLawTool is then able to compute a tree struc
   {...}
  ]
 ```
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Learn More
 

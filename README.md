@@ -5,6 +5,8 @@
 The DMLawTool is a decision-tree tool developed by the Università della Svizzera italiana in collaboration with the University of Neuchâtel within the P-5 program “Scientific Information” of swissuniversities. It is available under the CC-BY-SA 4.0 license as an open source software.
 The tool guides researchers working mainly in the fields of humanities and social sciences through the most relevant legal issues related to data management. At the end of the process, the tool proposes different solution approaches on what can be done with research data and how it can be archived in a repository.
 
+<a href="https://dmlawtool.ccdigitallaw.ch/">Take a look at the tool!</a>
+
 ### Disclaimer
 
 This tool is a basic guide with the only purpose of giving a general understanding on the main legal aspects of Copyright and Data Protection according to Swiss legislations and to the European General Data Protection Regulation as of March 2021.
